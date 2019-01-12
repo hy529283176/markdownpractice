@@ -58,9 +58,11 @@ markdown食用标题时，跟html不同的是，用#号的个数+上空格来实
   [hy的Markdown库](https://github.com/hy529283176/markdownpractice/ "title")。
   
   ### 参考式：
-  [hy的Markdown库1] [linkOne]  
-  [hy的Markdown库2] [linkTwo]  
- [linkOne]: https://github.com/hy529283176/markdownpractice/  
- [linkTwo]: https://github.com/hy529283176/markdownpractice/
+   
+   [hy的Markdown库1] [id1]  
+   [hy的Markdown库2] [id2]  
+   
+   [id1]: https://github.com/hy529283176/markdownpractice/  
+   [id2]: https://github.com/hy529283176/markdownpractice/
 
-## 9.
+## 9.图片
