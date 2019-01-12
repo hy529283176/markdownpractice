@@ -59,7 +59,7 @@ markdown食用标题时，跟html不同的是，用#号的个数+上空格来实
   ### 参考式：
   [hy的Markdown库1][1]  
   [hy的puppy库2][2]  
-  [1] :https://github.com/hy529283176/markdownpractice "Markdown"  
-  [2] :https://github.com/hy529283176/puppy "puppy"  
+  [1]:https://github.com/hy529283176/markdownpractice "Markdown"  
+  [2]:https://github.com/hy529283176/puppy "puppy"  
 
 ## 9.
