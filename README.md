@@ -53,13 +53,14 @@ markdown食用标题时，跟html不同的是，用#号的个数+上空格来实
 
 ## 8.链接的食用
   链接可以由两种形式生成：行内式和参考式。  
-  ### 行内式
+  ### 行内式  
+  
   [hy的Markdown库](https://github.com/hy529283176/markdownpractice)。
   
   ### 参考式：
-  [hy的Markdown库1][1]  
-  [hy的puppy库2][2]  
-  [1]:https://github.com/hy529283176/markdownpractice "Markdown"  
-  [2]:https://github.com/hy529283176/puppy "puppy"  
+  [hy的Markdown库1][1]
+  [hy的Markdown库2][2]
+  [1]:https://github.com/hy529283176/markdownpractice
+  [2]:https://github.com/hy529283176/markdownpractice
 
 ## 9.
