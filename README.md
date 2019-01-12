@@ -63,6 +63,14 @@ markdown食用标题时，跟html不同的是，用#号的个数+上空格来实
    [hy的Markdown库2][id2]  
    
    [id1]: https://github.com/hy529283176/markdownpractice/  
-   [id2]: https://github.com/hy529283176/markdownpractice/
+   [id2]: https://github.com/hy529283176/markdownpractice/ "title2"
 
 ## 9.图片的食用
+  ### 行内式
+  
+  ![图片1](/img/pic1.png "tupian")
+  
+  ### 参考式
+  
+  ![图片2][pic1]
+  [pic1]: img/pic2.png "tupain2"
