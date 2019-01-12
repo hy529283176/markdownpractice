@@ -72,5 +72,7 @@ markdown食用标题时，跟html不同的是，用#号的个数+上空格来实
   
   ### 参考式
   
-  ![图片2][pic1]
-  [pic1]: img/pic2.png "tupain2"
+  ![图片2][pic1]  
+  
+  [pic1]: img/pic2.png "tupain2"  
+  
