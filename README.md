@@ -85,6 +85,8 @@ markdown食用标题时，跟html不同的是，用#号的个数+上空格来实
 ## 12.表格的食用
 
   |名称|连接地址|  
-  |:------|------:|  
+  |:------:|:------:|  
   |markdown|<https://github.com/hy529283176/markdownpractice/>|  
-  |puppy|<https://github.com/hy529283176/puppy>|
+  |puppy|<https://github.com/hy529283176/puppy>|    
+  |表内列表|sss|  
+ 
