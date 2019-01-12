@@ -61,6 +61,6 @@ markdown食用标题时，跟html不同的是，用#号的个数+上空格来实
   [hy的Markdown库1] [linkOne]  
   [hy的Markdown库2] [linkTwo]  
  [linkOne]: https://github.com/hy529283176/markdownpractice/  
- [linkTwo]: https://github.com/hy529283176/markdownpractice/ "title2"
+ [linkTwo]: https://github.com/hy529283176/markdownpractice/
 
 ## 9.
