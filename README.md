@@ -59,10 +59,10 @@ markdown食用标题时，跟html不同的是，用#号的个数+上空格来实
   
   ### 参考式：
    
-   [hy的Markdown库1] [id1]  
-   [hy的Markdown库2] [id2]  
+   [hy的Markdown库1][id1]  
+   [hy的Markdown库2][id2]  
    
    [id1]: https://github.com/hy529283176/markdownpractice/  
    [id2]: https://github.com/hy529283176/markdownpractice/
 
-## 9.图片
+## 9.图片的食用
