@@ -79,5 +79,12 @@ markdown食用标题时，跟html不同的是，用#号的个数+上空格来实
 ## 10.反斜杠的食用
   \反斜杠感觉很多语言都是转义的，这里就用一下，不做太多吐槽。\*，\#
 
-## 11.符号`i am symbol`
+## 11.符号的食用`i am symbol`
   `deadline`
+  
+## 12.表格的食用
+
+  |名称|连接地址|  
+  |:------|:------|  
+  |markdown|<https://github.com/hy529283176/markdownpractice/>|  
+  |puppy|<https://github.com/hy529283176/puppy>|
